@@ -22,7 +22,7 @@ int main()
     int mutationChance = 10; // Chance (in percentage) of mutation occurring
     int mutationEffect = 100; // Additional bacteria produced due to beneficial mutation
     int harmfulMutationEffect = 200; // Bacteria killed due to harmful mutation
-    int cycles = 15 // Number of cycles to simulate
+    int cycles = 15 ;// Number of cycles to simulate
 
     for (int i = 0; i < cycles; i++)
     {
